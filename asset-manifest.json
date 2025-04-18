@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a9ef94a.css",
+    "main.js": "/static/js/main.79b6689a.js",
+    "static/js/241.bb02a808.chunk.js": "/static/js/241.bb02a808.chunk.js",
+    "static/media/spritesheet-2ZBCBAFQ.webp": "/static/media/spritesheet-2ZBCBAFQ.58f5f7603e7b8f012cee.webp",
+    "static/media/nlb-logo.png": "/static/media/nlb-logo.0b8f35c79812339e04bd.png",
+    "index.html": "/index.html",
+    "main.2a9ef94a.css.map": "/static/css/main.2a9ef94a.css.map",
+    "main.79b6689a.js.map": "/static/js/main.79b6689a.js.map",
+    "241.bb02a808.chunk.js.map": "/static/js/241.bb02a808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9ef94a.css",
+    "static/js/main.79b6689a.js"
+  ]
+}
