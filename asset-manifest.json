@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/nlb-stat-compendium/static/css/main.43cc95d0.css",
-    "main.js": "/nlb-stat-compendium/static/js/main.557ddb4e.js",
+    "main.js": "/nlb-stat-compendium/static/js/main.f22cd2f2.js",
     "static/js/241.bb02a808.chunk.js": "/nlb-stat-compendium/static/js/241.bb02a808.chunk.js",
     "static/media/spritesheet-2ZBCBAFQ.webp": "/nlb-stat-compendium/static/media/spritesheet-2ZBCBAFQ.58f5f7603e7b8f012cee.webp",
     "static/media/nlb-logo.png": "/nlb-stat-compendium/static/media/nlb-logo.0b8f35c79812339e04bd.png",
     "index.html": "/nlb-stat-compendium/index.html",
     "main.43cc95d0.css.map": "/nlb-stat-compendium/static/css/main.43cc95d0.css.map",
-    "main.557ddb4e.js.map": "/nlb-stat-compendium/static/js/main.557ddb4e.js.map",
+    "main.f22cd2f2.js.map": "/nlb-stat-compendium/static/js/main.f22cd2f2.js.map",
     "241.bb02a808.chunk.js.map": "/nlb-stat-compendium/static/js/241.bb02a808.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43cc95d0.css",
-    "static/js/main.557ddb4e.js"
+    "static/js/main.f22cd2f2.js"
   ]
 }
